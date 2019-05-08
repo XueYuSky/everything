@@ -1,2 +1,6 @@
 # everything
-这个仓库的目的是建立事物的模型，初步计划使用json数据格式。这些模型建好后将可用于在各种程序语言中快速构建原型。
+
+[中文文档](README_CHN.md) | [EnglishDoc](README.md)
+
+This document is under constructioon. You can fork this repo and make a PR .
+
