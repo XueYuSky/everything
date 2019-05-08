@@ -1,3 +1,6 @@
 site_name: Everything
-theme: readthedocs
+theme: material
+site_author: XueYuSky
 site_url: https://xueyusky.github.io/everything
+repo_url: https://github.com/xueyusky/everything
+copyright: xueyusky
